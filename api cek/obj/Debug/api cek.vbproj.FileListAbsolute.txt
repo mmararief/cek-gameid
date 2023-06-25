@@ -1,0 +1,16 @@
+C:\Users\arief\source\repos\api cek\api cek\bin\Debug\api cek.exe.config
+C:\Users\arief\source\repos\api cek\api cek\bin\Debug\api cek.exe
+C:\Users\arief\source\repos\api cek\api cek\bin\Debug\api cek.pdb
+C:\Users\arief\source\repos\api cek\api cek\bin\Debug\api cek.xml
+C:\Users\arief\source\repos\api cek\api cek\bin\Debug\Newtonsoft.Json.dll
+C:\Users\arief\source\repos\api cek\api cek\bin\Debug\Newtonsoft.Json.xml
+C:\Users\arief\source\repos\api cek\api cek\obj\Debug\api cek.vbproj.AssemblyReference.cache
+C:\Users\arief\source\repos\api cek\api cek\obj\Debug\api cek.vbproj.SuggestedBindingRedirects.cache
+C:\Users\arief\source\repos\api cek\api cek\obj\Debug\api_cek.Form1.resources
+C:\Users\arief\source\repos\api cek\api cek\obj\Debug\api_cek.Resources.resources
+C:\Users\arief\source\repos\api cek\api cek\obj\Debug\api cek.vbproj.GenerateResource.cache
+C:\Users\arief\source\repos\api cek\api cek\obj\Debug\api cek.vbproj.CoreCompileInputs.cache
+C:\Users\arief\source\repos\api cek\api cek\obj\Debug\api cek.vbproj.CopyComplete
+C:\Users\arief\source\repos\api cek\api cek\obj\Debug\api cek.exe
+C:\Users\arief\source\repos\api cek\api cek\obj\Debug\api cek.xml
+C:\Users\arief\source\repos\api cek\api cek\obj\Debug\api cek.pdb
